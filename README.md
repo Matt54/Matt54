@@ -1,7 +1,7 @@
 # Hi, I'm Matt 👋👨‍💻
 
 - Email: mattpfeiffer54@gmail.com
-- Sharing project updates on <a href="https://twitter.com/MattPfeiffer"><Twitter></a>
+- Sharing project updates on <a href="https://twitter.com/MattPfeiffer">Twitter</a>
 
 
 <!--
