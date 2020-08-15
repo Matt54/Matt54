@@ -1,6 +1,6 @@
 # Hi, I'm Matt 👋👨‍💻
 
-- Sharing project updates on <a href="https://twitter.com/MattPfeiffer">Twitter</a>
+- Sharing personal project updates on <a href="https://twitter.com/MattPfeiffer">Twitter</a>
 
 
 <!--
